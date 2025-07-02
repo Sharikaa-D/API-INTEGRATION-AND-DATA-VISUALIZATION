@@ -90,3 +90,6 @@ If you found this project interesting or use this in your own projects, please c
 
 For enhancements or feedback, please create an issue or a pull request.
 
+OUTPUT OF THE PROJECT:
+
+![Image](https://github.com/user-attachments/assets/6c919f7e-f28d-42ec-aee1-26e85534abfd)
